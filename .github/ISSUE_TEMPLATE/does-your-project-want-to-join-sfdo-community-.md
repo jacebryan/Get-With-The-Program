@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-_Thank you for your interest in joining SFDO-Community!_
+Thank you for your interest in joining SFDO-Community!
 
 If you feel your project team has met all of the necessary requirements outlined in our documentation, we want to know about it!
 Once we've received this information, we'll get back to you to schedule a meeting to review your project further. 
