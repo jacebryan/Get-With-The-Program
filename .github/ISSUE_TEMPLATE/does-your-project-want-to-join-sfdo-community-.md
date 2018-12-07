@@ -2,7 +2,7 @@
 name: Does your Project want to join SFDO-Community?
 about: Request to join SFDO-Community
 title: Does your Project want to join SFDO-Community?
-labels: ''
+labels: join
 assignees: ''
 
 ---
